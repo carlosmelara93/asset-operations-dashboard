@@ -1,9 +1,6 @@
 import streamlit as st
 # Branding / Header
 st.set_page_config(page_title="Asset Operations Dashboard", layout="wide")
-
-st.image("edf_logo.png", width=150)
-
 st.title("Asset Operations Dashboard")
 st.caption("Built by Carlos Castro • For AAM interview purposes with John Spratley")
 st.markdown("---")
